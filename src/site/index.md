@@ -1,6 +1,6 @@
 ---
-title: EleventyOne
-subtitle: A project scaffold for getting building with Eleventy quickly.
+title: Longshot
+subtitle: This is a blog about long takes in films, a topic that has been of interest for the past many years.
 layout: layouts/base.njk
 ---
 
@@ -9,7 +9,7 @@ layout: layouts/base.njk
 
 From this point we should already have:
 
-- [Eleventy](https://11ty.io) with a skeleton site
+- [Long Take (Wikipedia)](https://en.wikipedia.org/wiki/Long_take) with a skeleton site
 - A date format filter for Nunjucks
 - Sass pipeline
 - JS pipeline
